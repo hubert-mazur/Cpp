@@ -39,3 +39,9 @@
 **/Build/
 */Build/
 Build/
+# VScode Files
+*.json
+
+# Binary files
+*.bin
+*.ipch
