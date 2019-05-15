@@ -39,6 +39,12 @@
 **/Build/
 */Build/
 Build/
+cmake-build-debug
+.vscode
+.idea
+html
+latex
+config-file
 # VScode Files
 *.json
 
